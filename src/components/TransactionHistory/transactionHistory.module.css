@@ -1,0 +1,24 @@
+.transaction_history{
+    background-color: white;
+    width: 520px;
+    border-radius: 5px;
+        border: 1px solid brown;
+        box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.12), 0px 3px 3px rgba(0, 0, 0, 0.14), 0px 6px 3px rgba(0, 0, 0, 0.2);
+   
+}
+
+.table_header{
+    background-color: gray;
+    color: white;
+    line-height: 1.5;
+}
+
+.header_cell{
+    padding: 10px;
+}
+
+.table_cell{
+    background-color: rgb(228, 231, 231);
+    text-align: center;
+    padding: 10px;
+}
